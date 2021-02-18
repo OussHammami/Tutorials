@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpauXp23Rte3IVt0cT2MU2bHhYMdwslD+YWseIA9hM/ezBFFDfMq81R8xmwgH62BjR9FJKci+ePN3ykGUjLbrw==",
+  "success": true,
+  "projectFilePath": "C:\\MySpace\\Git\\Tutorials\\AspDotNetCoreFondamentals\\OdeToFood.Core\\OdeToFood.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\oussa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

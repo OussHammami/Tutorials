@@ -1,0 +1,9 @@
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\MySpace\Git\Tutorials\AspDotNetCoreFondamentals\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
